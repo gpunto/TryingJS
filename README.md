@@ -1,4 +1,4 @@
 # TryingJS
 Learning JS
 
-Any critique is welcome
+Any comment, critique, feedback, suggestion is welcome.
